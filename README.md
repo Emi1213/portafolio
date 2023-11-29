@@ -19,6 +19,3 @@ Para ver mi portafolio:
 1. Clona el repositorio usando `git clone [URL del repositorio]`.
 2. Abre el archivo `index.html` en tu navegador preferido.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor haz un fork del repositorio y envía un pull request con tus cambios. Para reportar problemas o sugerencias, puedes abrir un issue en el repositorio.
